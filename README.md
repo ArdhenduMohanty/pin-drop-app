@@ -49,7 +49,5 @@ This project is an **Interactive Map-based Application** built using **React and
 
 ## 🏗️ Installation and Setup
 
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
-   cd <project-directory>
+Follow these steps to set up the project on your local machine: 1. **Clone the Repository:** Open a terminal and run:  ```bash git clone <repository-url> cd <project-directory> ``` 2. **Install Dependencies:** Install all necessary dependencies using:  ```bash npm install ``` 3. **Set Up OpenCage API Key:**  - Visit [OpenCage](https://opencagedata.com) to obtain a free API key.  - Open the project code and replace the placeholder API key with your actual key in the relevant configuration file. 4. **Run the Application:** Launch the app by running:  ```bash npm start ```  This will start the development server and open the app in your default browser.
+
