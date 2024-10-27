@@ -24,12 +24,7 @@ Navigate to Pin: Use the sidebar to navigate to any saved pin.
 Installation
 Follow these steps to set up the project on your local machine:
 
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 Install dependencies:
 
 bash
@@ -109,8 +104,7 @@ Feel free to customize and enhance this project to suit your needs! If you encou
 Contributing
 Contributions are welcome! If you want to contribute:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/your-feature.
+
 Make your changes.
 Commit and push your changes: git commit -m 'Add your message' and git push origin feature/your-feature.
 Open a pull request.
